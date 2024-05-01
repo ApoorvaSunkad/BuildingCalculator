@@ -55,3 +55,11 @@ button{
 .operator{
     color: #67db0e;
 }
+
+/* Media Query */
+@media only screen and (max-width:600px){
+    .container{
+        margin-left: 3%;
+        margin-right: 3%;
+    }
+}
